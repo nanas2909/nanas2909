@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil🫀
 
-<!--
-**nanas2909/nanas2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Lívia
 
-Here are some ideas to get you started:
+-Estou usando no Alura
+-Estou me desenvolvendo na linguagem Javascript
+-Utilizo esse espaço para minha organização e copartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+0000108261855xsp@al.educacao.sp.gov.br
+
+@aanaliviaaa
